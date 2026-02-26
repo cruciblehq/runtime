@@ -1,0 +1,9 @@
+version: 0
+
+resource:
+  type: runtime
+  name: crucible/runtime
+  version: 0.1.0
+
+stages:
+  - from: oci alpine:3.21
