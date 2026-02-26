@@ -1,0 +1,25 @@
+# Image
+*.tar
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Misc
+*.bak
+*.tmp
